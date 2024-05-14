@@ -1,5 +1,4 @@
-Current projects <!-- TODO -->
-
+Current projects: <!-- TODO -->
 
 Programing Languages: I understand Golang, Rust, and C along with a bit of Java
 
