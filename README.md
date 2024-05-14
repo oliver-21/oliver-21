@@ -1,4 +1,10 @@
-### Hi there 👋
+Current projects <!-- TODO -->
+
+
+Programing Languages: I understand Golang, Rust, and C along with a bit of Java
+
+
+
 
 <!--
 **oliver-21/oliver-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
