@@ -2,7 +2,7 @@ Current projects: <!-- TODO -->
 
 Programing Languages: I understand Golang, Rust, and C along with a bit of Java
 
-
+<!-- Insert Ascii Art Generating Code -->
 
 
 <!--
